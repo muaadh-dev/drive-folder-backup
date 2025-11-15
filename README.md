@@ -84,7 +84,7 @@ pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-
 
 ```bash
 
-python test.py
+python SetUp.py
 
 ```
 
