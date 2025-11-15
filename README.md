@@ -42,7 +42,7 @@ project/
 
 │
 
-├── test.py               # الكود الرئيسي للبرنامج
+├── SetUp.py               # الكود الرئيسي للبرنامج
 
 ├── credentials.json      # ملف بيانات OAuth من Google Console
 
